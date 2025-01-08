@@ -5,7 +5,7 @@
 - Execute npm install command.
 - Create .env file in root directory with following env variable 
     -  `PORT = 8021`
-    -  `MONGO_DB_URL = mongodb+srv://divishtk:root@divishtcluster.p5oos.mongodb.net`
+    -  `MONGO_DB_URL = mongodb+srv://divishtk:root@divishtunknown.mongodb.net   { Your mongo db cluster url will differ}`
     -  `CLOUD_NAME = dgqvt4t14`
     -  `API_KEY = 156721736345994`
     -  `API_SECRET = osyzm1_OoD1NjUqRUM9-6-LDt5o`
